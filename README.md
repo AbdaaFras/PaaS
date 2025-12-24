@@ -1,5 +1,4 @@
 # Aplikasi PaaS Sederhana
-
 Aplikasi web sederhana menggunakan Python Flask
 yang dideploy menggunakan layanan Platform as a Service (PaaS).
 
